@@ -1,0 +1,12 @@
+{
+  "name": "onderzoek_rdi",
+  "scripts": {
+    "P4": "node src/ProbleemStelling4.js",
+    "P6": "node src/ProbleemStelling6.js",
+    "RP1": "node src/ProbleemStelling1_Redis.js"
+  },
+  "dependencies": {
+    "neo4j-driver": "^1.7.5",
+    "redis": "^2.8.0"
+  }
+}
