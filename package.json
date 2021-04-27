@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "neo4j-driver": "^1.7.5",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
